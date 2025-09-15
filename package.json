@@ -1,6 +1,6 @@
 {
   "name": "@padcom/wait-for",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Wait for something to be truthy (with timeout)",
   "author": "Matthias Hryniszak <padcom@gmail.com>",
   "license": "MIT",
